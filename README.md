@@ -1,4 +1,5 @@
 API project
+
 Setting up a Node.js environment and install the necessary dependencies, including Express, which will serve as the web framework for the API.
 
 Creating a database and set up a data access layer using a Node.js database driver like Sequelize or MongoDB.
